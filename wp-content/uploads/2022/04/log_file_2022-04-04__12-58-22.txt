@@ -1,0 +1,68 @@
+
+---Downloaded files---
+The import files for: Amaz Store Market were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2022/04/demo-content-import-file_2022-04-04__12-58-22.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/uploads/2022/04/demo-widgets-import-file_2022-04-04__12-58-22.json
+Customizer file = C:\xampp\htdocs\wordpress/wp-content/uploads/2022/04/demo-customizer-import-file_2022-04-04__12-58-22.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Amaz Store : About Us widget - About Us - Imported
+Amaz Store : Post Slide widget - Latest News - Imported
+Image - No Title - Imported
+
+Footer Widget Area 1 : 
+
+Text - Welcome - Imported
+Custom HTML - Connect With Us - Imported
+
+Footer Widget Area 2 : 
+
+Custom HTML - More About Store - Imported
+Custom HTML - Key Links - Imported
+
+Footer Widget Area 3 : 
+
+Tag Cloud - Product Tags - Imported
+Text - More Info - Imported
+
+Footer Widget Area 4 : 
+
+Custom HTML - Contact Details - Imported
+Custom HTML - Offline Stores - Imported
+
+WooCommerce Sidebar : 
+
+Filter Products by Price - Filter by Price - Imported
+Filter Products by Attribute - Filter by Color - Imported
+Products list - Sale is Live - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
